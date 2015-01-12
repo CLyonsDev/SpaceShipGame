@@ -8,6 +8,11 @@ public class ShipMovement : MonoBehaviour {
 
 	public float forwardSpeed = 1.0f;
 	public float maxForwardSpeed = 1.0f;
+
+	public float backSpeed = 0.5f;
+	public float maxBackSpeed = 1f;
+
+	public float rollSpeed = 1.0f;
 	
 	public float horizontalSpeed = 2.0F;
 	public float verticalSpeed = 2.0F;
@@ -30,6 +35,19 @@ public class ShipMovement : MonoBehaviour {
 		if(Input.GetKey(KeyCode.W))
 		{
 			rigidbody.AddRelativeForce(Vector3.forward*forwardSpeed*Time.deltaTime);
+		}
+
+		if(Input.GetKey(KeyCode.S))
+		{
+			rigidbody.AddRelativeForce(Vector3.back*backSpeed*Time.deltaTime);
+		}
+
+		if(Input.GetKey(KeyCode.A)){
+			rigidbody.AddRelativeTorque(0,0,rollSpeed);
+		}
+
+		if(Input.GetKey(KeyCode.D)){
+			rigidbody.AddRelativeTorque(0,0,-rollSpeed);
 		}
 	}
 }
