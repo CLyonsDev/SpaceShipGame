@@ -46,9 +46,10 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\MapBoundaries.cs" />
      <Compile Include="Assets\Scripts\MoveProjFwd.cs" />
      <Compile Include="Assets\Scripts\ShipMovement.cs" />
-     <Compile Include="Assets\shootonclick.cs" />
+     <Compile Include="Assets\Scripts\shootonclick.cs" />
      <None Include="Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>

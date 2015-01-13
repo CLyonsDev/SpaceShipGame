@@ -4,6 +4,7 @@ using System.Collections;
 public class shootonclick : MonoBehaviour {
 
 	public Rigidbody laserBolt;
+	public GameObject ship;
 
 	public float speed = 1.0f;
 
@@ -17,6 +18,7 @@ public class shootonclick : MonoBehaviour {
 		if(Input.GetMouseButtonDown(0)){
 			Rigidbody laserClone;
 			laserClone = Instantiate(laserBolt,transform.position,transform.rotation) as Rigidbody;
+			laserClone.velocity = ship.rigidbody.velocity;
 			laserClone.velocity = transform.TransformDirection(Vector3.down * speed);
 		}
 		//Debug.Log("hue");

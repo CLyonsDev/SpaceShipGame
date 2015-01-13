@@ -2,18 +2,26 @@
 using System.Collections;
 
 public class MoveProjFwd : MonoBehaviour {
-	
-	public GameObject LaserGun;
-	//public Camera MainCamera=Camera.main;
+
 
 	// Use this for initialization
-	void Start () {
-		//this.transform.localRotation = LaserGun.transform.localRotation;
+	void Awake () {
+		destroyaftertime();
 	}
 	
 	// Update is called once per frame
-	void Update () {
-		//Vector3 FwdForce = speed*transform.forward*Time.deltaTime;
-		//rigidbody.AddRelativeForce(0,0,speed*Time.deltaTime);	
+	void OnBecameInvisible () {
+/*		GameObject mapManager = GameObject.FindGameObjectWithTag("MapManager");
+		MapBoundaries MapScript = mapManager.GetComponent<MapBoundaries>();
+		if(transform.position.x >= MapScript.mapMaxX || transform.position.x <= MapScript.mapMinX || transform.position.z >= MapScript.mapMaxY || transform.position.z <= MapScript.mapMinY)
+		{
+			Destroy(GameObject);
+*/		}
+
+	IEnumerator destroyaftertime(){
+		yield return new WaitForSeconds(3);
+		Debug.Log("asd");
+		Destroy(gameObject);
 	}
 }
+
