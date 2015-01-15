@@ -313,6 +313,7 @@ GameObject:
   - 114: {fileID: 11492760}
   - 114: {fileID: 11427768}
   - 114: {fileID: 11443824}
+  - 65: {fileID: 6538190}
   m_Layer: 0
   m_Name: FighterShip
   m_TagString: Untagged
@@ -935,6 +936,18 @@ MeshCollider:
   m_SmoothSphereCollisions: 0
   m_Convex: 1
   m_Mesh: {fileID: 4300010, guid: cbac2bdb93d18984ea56217745e98fb9, type: 3}
+--- !u!65 &6538190
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 181778}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: .100000001, y: .100000001, z: .100000001}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!65 &6560280
 BoxCollider:
   m_ObjectHideFlags: 1

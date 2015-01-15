@@ -19,6 +19,7 @@ public class ShipAttributes : MonoBehaviour {
 	}
 
 	void ApplyDamage(float dmg){
+		Debug.Log("OUCH!");
 		Health -= dmg;
 	}
 }
