@@ -6,6 +6,8 @@ public class shootonclick : MonoBehaviour {
 	public Rigidbody laserBolt;
 	public GameObject ship;
 
+	public AudioClip LaserSound;
+
 	public float delay = 1.0f;
 	public float timer = 0.0f;
 	public bool canFire = true;
@@ -13,13 +15,19 @@ public class shootonclick : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-	
 	}
 	
 	// Update is called once per frame
 	void Update () {
 		if(Input.GetMouseButton(0) && canFire){
 			GetComponent<PhotonView>().RPC("ShootLaser", PhotonTargets.All);
+			if(!audio.isPlaying){
+				audio.Play();
+			}
+		}
+
+		else if(!Input.GetMouseButtonDown(0) && audio.isPlaying){
+			audio.Stop();
 		}
 	}
 
