@@ -6,6 +6,9 @@ public class shootonclick : MonoBehaviour {
 	public Rigidbody laserBolt;
 	public GameObject ship;
 
+	public float delay = 1.0f;
+	public float timer = 0.0f;
+	public bool canFire = true;
 	public float speed = 1.0f;
 
 	// Use this for initialization
@@ -15,14 +18,27 @@ public class shootonclick : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if(Input.GetMouseButtonDown(0)){
-			Rigidbody laserClone;
-			laserClone = Instantiate(laserBolt,transform.position,transform.rotation) as Rigidbody;
-			laserClone.velocity = ship.rigidbody.velocity;
-			laserClone.velocity = transform.TransformDirection(Vector3.down * speed);
+		if(Input.GetMouseButton(0) && canFire){
+			GetComponent<PhotonView>().RPC("ShootLaser", PhotonTargets.All);
 		}
 		//Debug.Log("hue");
 		//laserBolt.rigidbody.velocity = transform.TransformDirection(new Vector3(0,0,speed*Time.deltaTime));
 		//laserClone.rigidbody.AddRelativeForce(0,0,speed*Time.deltaTime);
+	}
+
+	[RPC]
+	void ShootLaser(){
+		Rigidbody laserClone;
+		laserClone = Instantiate(laserBolt,transform.position,transform.rotation) as Rigidbody;
+		//laserClone.velocity = ship.rigidbody.velocity;
+		laserClone.velocity = transform.TransformDirection(Vector3.down * speed);
+		canFire = false;
+		StartCoroutine(startDelay());
+	}
+
+	private IEnumerator startDelay(){
+
+		yield return new WaitForSeconds(0.1f);
+		canFire = true;
 	}
 }
