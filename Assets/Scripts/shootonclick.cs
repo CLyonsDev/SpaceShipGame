@@ -21,9 +21,6 @@ public class shootonclick : MonoBehaviour {
 		if(Input.GetMouseButton(0) && canFire){
 			GetComponent<PhotonView>().RPC("ShootLaser", PhotonTargets.All);
 		}
-		//Debug.Log("hue");
-		//laserBolt.rigidbody.velocity = transform.TransformDirection(new Vector3(0,0,speed*Time.deltaTime));
-		//laserClone.rigidbody.AddRelativeForce(0,0,speed*Time.deltaTime);
 	}
 
 	[RPC]
@@ -40,5 +37,5 @@ public class shootonclick : MonoBehaviour {
 
 		yield return new WaitForSeconds(0.1f);
 		canFire = true;
-	}
+	}	
 }

@@ -312,6 +312,7 @@ GameObject:
   - 114: {fileID: 11481746}
   - 114: {fileID: 11492760}
   - 114: {fileID: 11427768}
+  - 114: {fileID: 11443824}
   m_Layer: 0
   m_Name: FighterShip
   m_TagString: Untagged
@@ -986,6 +987,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73b6cad11f0c864458eeb7e1038307ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &11443824
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 181778}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5b27f8cc94aad749b30c1fb4ff3f6b6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Health: 100
 --- !u!114 &11460278
 MonoBehaviour:
   m_ObjectHideFlags: 1
