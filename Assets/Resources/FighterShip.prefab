@@ -239,7 +239,6 @@ GameObject:
   - 33: {fileID: 3381752}
   - 23: {fileID: 2381754}
   - 64: {fileID: 6406404}
-  - 54: {fileID: 5404842}
   m_Layer: 0
   m_Name: ShipMid
   m_TagString: Untagged
@@ -312,6 +311,7 @@ GameObject:
   - 54: {fileID: 5481746}
   - 114: {fileID: 11481746}
   - 114: {fileID: 11492760}
+  - 114: {fileID: 11427768}
   m_Layer: 0
   m_Name: FighterShip
   m_TagString: Untagged
@@ -854,21 +854,6 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 181766}
   m_Mesh: {fileID: 4300000, guid: cbac2bdb93d18984ea56217745e98fb9, type: 3}
---- !u!54 &5404842
-Rigidbody:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 181770}
-  serializedVersion: 2
-  m_Mass: 1.00000001e-07
-  m_Drag: 0
-  m_AngularDrag: 0
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 1
-  m_Constraints: 0
-  m_CollisionDetection: 0
 --- !u!54 &5481746
 Rigidbody:
   m_ObjectHideFlags: 1
@@ -921,7 +906,7 @@ MeshCollider:
   m_Enabled: 0
   serializedVersion: 2
   m_SmoothSphereCollisions: 0
-  m_Convex: 1
+  m_Convex: 0
   m_Mesh: {fileID: 4300014, guid: cbac2bdb93d18984ea56217745e98fb9, type: 3}
 --- !u!64 &6406406
 MeshCollider:
@@ -990,6 +975,17 @@ Animator:
   m_ApplyRootMotion: 1
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &11427768
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 181778}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73b6cad11f0c864458eeb7e1038307ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &11460278
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1072,7 +1068,7 @@ MonoBehaviour:
   onSerializeRigidBodyOption: 2
   ownershipTransfer: 0
   ObservedComponents:
-  - {fileID: 481772}
+  - {fileID: 11427768}
   ObservedComponentsFoldoutOpen: 1
   viewIdField: 0
   instantiationId: -1

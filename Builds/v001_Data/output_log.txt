@@ -18,7 +18,7 @@ Platform assembly: C:\Users\Collin\Documents\SpaceCombatGame\Builds\v001_Data\Ma
 Loading C:\Users\Collin\Documents\SpaceCombatGame\Builds\v001_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\Collin\Documents\SpaceCombatGame\Builds\v001_Data\Managed\Photon3Unity3D.dll (this message is harmless)
 Loading C:\Users\Collin\Documents\SpaceCombatGame\Builds\v001_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
-- Completed reload, in  0.261 seconds
+- Completed reload, in  0.088 seconds
 desktop: 1920x1200 59Hz; virtual: 1920x1200 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
@@ -81,335 +81,7 @@ PhotonView register is ignored, because viewID is 0. No id assigned yet to: View
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+hit!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -425,43 +97,7 @@ PhotonView register is ignored, because viewID is 0. No id assigned yet to: View
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+hit!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -469,7 +105,7 @@ PhotonView register is ignored, because viewID is 0. No id assigned yet to: View
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+hit!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -477,11 +113,11 @@ PhotonView register is ignored, because viewID is 0. No id assigned yet to: View
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+hit!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+hit!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -493,7 +129,7 @@ PhotonView register is ignored, because viewID is 0. No id assigned yet to: View
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+hit!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -501,7 +137,7 @@ PhotonView register is ignored, because viewID is 0. No id assigned yet to: View
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+hit!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -509,27 +145,27 @@ PhotonView register is ignored, because viewID is 0. No id assigned yet to: View
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+hit!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+hit!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+hit!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+hit!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+hit!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+hit!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -561,43 +197,11 @@ hit!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-hit!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
 hit!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
 PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-hit!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-hit!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-hit!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -693,31 +297,7 @@ PhotonView register is ignored, because viewID is 0. No id assigned yet to: View
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+hit!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -733,15 +313,15 @@ PhotonView register is ignored, because viewID is 0. No id assigned yet to: View
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
 hit!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
 PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+hit!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -773,51 +353,7 @@ hit!
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
 hit!
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -841,11 +377,31 @@ PhotonView register is ignored, because viewID is 0. No id assigned yet to: View
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
+hit!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
 PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
 hit!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+hit!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -905,6 +461,42 @@ PhotonView register is ignored, because viewID is 0. No id assigned yet to: View
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
+hit!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+hit!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
 PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
@@ -949,11 +541,47 @@ PhotonView register is ignored, because viewID is 0. No id assigned yet to: View
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
+hit!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
 PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
 hit!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+hit!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PhotonView register is ignored, because viewID is 0. No id assigned yet to: View (0)0 on LaserBolt(Clone) (scene)
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 

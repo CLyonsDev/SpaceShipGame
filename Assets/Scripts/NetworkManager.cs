@@ -3,7 +3,7 @@ using System.Collections;
 
 public class NetworkManager : MonoBehaviour {
 
-	public Camera StandbyCamera;
+	public GameObject StandbyCamera;
 	SpawnSpot[] spawnSpots;
 	
 	void Start () {
@@ -34,14 +34,13 @@ public class NetworkManager : MonoBehaviour {
 	
 	void OnJoinedRoom(){
 		Debug.Log ("OnJoinedRoom");
-		StandbyCamera.enabled = false;
 		SpawnMyPlayer();
 	}
 	void SpawnMyPlayer() {
 		SpawnSpot mySpawnSpot = spawnSpots[Random.Range(0, spawnSpots.Length)];
 		GameObject myPlayer = (GameObject)PhotonNetwork.Instantiate("FighterShip", mySpawnSpot.transform.position, mySpawnSpot.transform.rotation,0);
-		StandbyCamera.enabled = false;
 		myPlayer.GetComponent<ShipMovement>().enabled = true;
+		StandbyCamera.SetActive(false);
 		myPlayer.GetComponentInChildren<shootonclick>().enabled = true;
 		myPlayer.transform.FindChild("MainCamera").gameObject.SetActive(true);
 	}

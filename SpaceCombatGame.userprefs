@@ -1,11 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\NetworkManager.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\NetworkCharacter.cs">
     <Files>
-      <File FileName="Assets\Scripts\NetworkManager.cs" Line="52" Column="3" />
-      <File FileName="Assets\Scripts\MapBoundaries.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\MoveProjFwd.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\shootonclick.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NetworkCharacter.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
