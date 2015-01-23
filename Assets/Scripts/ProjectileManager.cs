@@ -13,7 +13,7 @@ public class ProjectileManager : MonoBehaviour {
 		Destroy(gameObject);
 		Debug.Log("hit!");
 
-		collider.SendMessageUpwards("Damage",dmg,SendMessageOptions.DontRequireReceiver);
+		collider.SendMessageUpwards("ApplyDamage",dmg,SendMessageOptions.DontRequireReceiver);
 	}
 
 	IEnumerator destroyaftertime(){

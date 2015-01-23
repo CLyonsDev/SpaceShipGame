@@ -1,10 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\shootonclick.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ShipAttributes.cs">
     <Files>
-      <File FileName="Assets\Scripts\ProjectileManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ProjectileManager.cs" Line="16" Column="43" />
       <File FileName="Assets\Scripts\ShipAttributes.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\NetworkManager.cs" Line="41" Column="144" />
+      <File FileName="Assets\Scripts\NetworkManager.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\shootonclick.cs" Line="30" Column="17" />
     </Files>
   </MonoDevelop.Ide.Workbench>
